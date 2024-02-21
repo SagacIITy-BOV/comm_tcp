@@ -29,8 +29,3 @@ To communicate with Piaget, simply run the script [l-runClient.sh](scripts/l-run
 $ ./scripts/l-runClient.sh <server_address>
 ```
 
-TODO:
-=====
-- Refactor the sockets code (in C) to a more object oriented C++ version.
-- Refactor code according to C++ style guide convention.
-- Follow ROS package guidelines and hopefully publish package.
