@@ -21,9 +21,8 @@ $ ./scripts/l-runServer.sh
 ```
 
 **For Client Node:**
-(Replace 'server_address' and 'port_number' by the correct values)
 ```
-$ rosrun comm_tcp client_node <server_address> <port_number>
+$ rosrun comm_tcp client_node
 ```
 To communicate with Piaget, simply run the script [l-runClient.sh](scripts/l-runClient.sh) present in the scripts directory.
 ```
