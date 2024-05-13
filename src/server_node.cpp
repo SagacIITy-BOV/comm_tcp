@@ -1,13 +1,9 @@
  /*************************************************************************
- * Author: Abhinav Jain
+ * Forked from: Abhinav Jain
  * Contact: abhinavjain241@gmail.com, abhinav.jain@heig-vd.ch
  * Date: 28/06/2016
  *
- * This file contains source code to the server node of the ROS package
- * comm_tcp developed at LaRA (Laboratory of Robotics and Automation)
- * as part of my project during an internship from May 2016 - July 2016.
- *
- * (C) All rights reserved. LaRA, HEIG-VD, 2016 (http://lara.populus.ch/)
+ *Modified at: Indian Institute of Technology, Bhubaneswar
  ***************************************************************************/
 #include <ros/ros.h>
 #include <std_msgs/Float32.h>
